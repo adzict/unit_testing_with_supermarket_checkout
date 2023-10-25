@@ -25,3 +25,7 @@ The checkout class has the following test cases that all go through as I'm imple
 - can add discount rules
 - can apply discount rules to the total
 - exception is trhrown for item added without a price
+
+## Blog Post on Unit Testing in Python:
+
+[Unit Testing in Python][]
